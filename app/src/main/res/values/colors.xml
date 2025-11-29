@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="oreobg">#247EC1</color>
+    <color name="oreobg2">#1C6BB2</color>
+    <color name="oreobg3">#0F4A9A</color>
+    <color name="oreobg4">#0A3A7F</color>
+    <color name="oreobg5">#0A2E6A</color>
+    <color name="oreobg6">#0A1F4F</color>
+    <color name="gray">#141519</color>
+    <color name="grayback">#1B1D23</color>
+</resources>
