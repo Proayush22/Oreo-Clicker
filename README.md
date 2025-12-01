@@ -18,6 +18,12 @@ Idle generation: Earn Oreos per second based on upgrades (OPS)
 
 🌟 UI & Animation
 
+Screenshots:
+<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/a90746fb-8bdb-4fa4-936c-7c14a0be9e0d" />
+<img width="300" height="1442" alt="image" src="https://github.com/user-attachments/assets/3e844cf7-9414-41e8-9dd6-3a546135b298" />
+<img width="300" height="2400" alt="image" src="https://github.com/user-attachments/assets/52600df9-af6e-47f5-912b-9b21552de5e4" />
+
+
 Smooth scaling animations on cookie tap
 
 Floating “+X” text animations
